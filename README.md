@@ -20,3 +20,13 @@ an exploratory data analysis where we look into the data variables and look for 
 On the second part, we use multiple regression to predict movie revenue.
 
 You can find the task description [here](Programming_assignment.pdf). Finally, a report on our work may also be found [here]().
+
+
+# Dev-Stuff
+
+The project uses Python 3.10 by default. No special packages other than pandas and matplotlib are used, so a package manager
+(e.g. poetry) is unnecessary. Just create a new virtual environment using conda:
+
+```bash
+$ conda create -n mem264 python=3.10
+```
