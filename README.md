@@ -19,4 +19,4 @@ In this project, we will try to predict the box office revenue (in dollars) of m
 an exploratory data analysis where we look into the data variables and look for correlations w.r.t. the target variable.
 On the second part, we use multiple regression to predict movie revenue.
 
-You can find the task description [here](). Finally, a report on our work may also be found [here]().
+You can find the task description [here](Programming_assignment.pdf). Finally, a report on our work may also be found [here]().
